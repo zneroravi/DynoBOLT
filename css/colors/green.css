@@ -1,0 +1,36 @@
+/*------------------------------------------------------------------
+
+COLOR:	GREEN	#88c136
+
+-------------------------------------------------------------------*/
+.portfolio .cbp-item a.cbp-lightbox, .portfolio .cbp-item a.link{
+	background:#333;
+}
+.portfolio-in:before, .btn-dark:hover, .filter-style-2 .cbp-filter-item.cbp-filter-item-active, .cbp-l-filters-buttonCenter .cbp-filter-counter, .filter-style-2 .cbp-filter-item:hover, .testimonial .owl-controls .owl-dots div.active, .no-touch .cd-top:hover, .filter-style-3 .cbp-filter-item.cbp-filter-item-active:before, .filter-style-3 .cbp-filter-item:hover:before, .filter-style-4 .cbp-filter-item.cbp-filter-item-active:before, .filter-style-4 .cbp-filter-item:hover:before, .filter-style-5 .cbp-filter-item.cbp-filter-item-active, .filter-style-5 .cbp-filter-item:hover, .heading-block hr:after, .services .service-part li:hover i, .progress-bar, .our-team .social-icons a:hover, .accordion .panel-title a:hover, .pricing.style-2 .pricing-table.pre .cta-button, .post-content .date, footer .social-icons a:hover, .pricing.style-2 .pricing-table.pre .title, header nav li a:after, .contact-form button, .services .service-part:before, .services .service-part:hover i:after, .portfolio .cbp-item a.cbp-lightbox:hover, .portfolio .cbp-item a.link:hover, .icon-style .icon:before, .with-nav .owl-nav div:hover, .footer h6:after, .fat-nav {
+	background: #88c136 !important;
+}
+
+a:hover, a:focus, .icon-style .icon {
+	color: #88c136;
+}
+.post-content .tag, .portfolio, .heading-block h5, .filter-style-3 .cbp-filter-item.cbp-filter-item-active, .filter-style-3 .cbp-filter-item:hover, .services .service-part li:hover h6, .services .service-part i, .text-color-primary, .our-team .social-icons a, .accordion .panel-default > .panel-heading .panel-title a.collapsed:before, .testimonial #testi-slide h6, header nav li.current-menu-item a,header nav li.active a, header nav li a:hover, .services .service-part:hover h6, .counters i, .testimonial #testi-slide i, .pricing.style-2 .pricing-table .title, footer .social-icons a {
+	color: #88c136 !important;
+}
+.portfolio .port-hover span, .services .service-part li:hover i, .our-team .social-icons a:hover {
+	color: #fff !important;
+}
+.btn, .accordion .panel-default > .panel-heading a {
+	background: #88c136;
+}
+.accordion .panel-title a:hover {
+	background: #88c136 !important;
+}
+.btn-dark:hover, .testimonial .owl-controls .owl-dots div.active, .cd-top, a.big-border:hover, .services .service-part i, .progress, .our-team article, .with-nav .owl-nav div:hover, .testimonial #testi-slide i, footer .social-icons a {
+	border-color: #88c136;
+}
+.cbp-l-filters-buttonCenter .cbp-filter-counter:before {
+	border-top-color: #88c136;
+}
+#contact_form li .form-control:focus {
+	border-bottom: 2px solid #88c136;
+}
